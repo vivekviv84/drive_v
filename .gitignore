@@ -1,0 +1,19 @@
+# Datasets
+data/
+dataset/
+
+# Training outputs
+runs/
+checkpoints/
+
+# Model weights
+*.pth
+*.pt
+
+# Python
+__pycache__/
+*.pyc
+
+# Env
+venv/
+.env

@@ -173,19 +173,8 @@ LiteSegEdge/
 
 ---
 
-## ⏱️ Demo Structure (5-Minute Pitch Guide)
-Use this timeline to present the project to recruiters, at hackathons, or in academic reviews:
 
-| Time | Action |
-| :--- | :--- |
-| **0:00 – 0:45** | Show raw nuScenes driving footage. State the core problem: *"How does an autonomous car confidently know where it can drive?"* |
-| **0:45 – 2:00** | Run the video demo (`demo_video.mp4`). Highlight the live, fluid segmentation mask at 280+ FPS. |
-| **2:00 – 3:00** | Pause on the active dashboard. Explain the core features: confidence tiering, active lane corridor, blind spot zones, and the real-time risk score. |
-| **3:00 – 3:45** | Pull up the comparison chart. Highlight how LiteSegEdge beats massive baseline models like U-Net and MobileNet on compute speed, param count, and accuracy simultaneously. |
-| **3:45 – 4:30** | Show edge cases. Demonstrate the Uncertainty Head firing alerts during harsh night drives and boundary ambiguity. |
-| **4:30 – 5:00** | Conclude with benchmark proof. Show the ONNX export flow and claim execution novelty on constrained hardware. |
 
----
 
 ## 🔬 ML Pipeline Details
 
@@ -246,8 +235,7 @@ Built  by a 4-person team:
 | **Neha Shetty** | Led project planning, coordination, and timeline management across all team members. Owned documentation, presentation flow, and integration oversight |
 | **Vivek Dubey** | Designed and built LiteSegEdge (encoder-decoder + uncertainty pipeline), custom loss functions (Focal + Lovász + Boundary + Uncertainty), and nuScenes mask generation. Developed the real-time risk scoring dashboard with multi-factor evaluation, optimized to 200+ FPS. |
 | **Prakati N** | Handled dataset preparation, preprocessing, and augmentation; ran training experiments and parameter tuning to evaluate model performance.
- |
-| **Shreya Sanghwa** | Assisted in dashboard visualization design and demo video creation; led report writing and PPT preparation for result presentation. |
+ || **Shreya Sanghwa** | Assisted in dashboard visualization design and demo video creation; led report writing and PPT preparation for result presentation. |
 ---
 
 ## 📄 License

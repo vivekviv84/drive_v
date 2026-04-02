@@ -1,4 +1,4 @@
-# 🚗 LiteSegEdge — Autonomous Driving Perception & Safety Dashboard
+# 🚗 LiteSegEdge — Autonomous Driving  & Safety Dashboard
 *A lightweight real-time perception system that segments drivable space, estimates model uncertainty, and generates a risk-aware safety dashboard from standard camera input.*
 
 ---

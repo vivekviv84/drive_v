@@ -226,22 +226,8 @@ LiteSegEdge/
 ## 🔮 Future Work
 - **Object Detection** — Identifying and localizing dynamic agents (vehicles, pedestrians, cyclists) to add a critical layer of awareness beyond static road geometry.
 
----
 
-## 👥 Team
-Built by a 4-person team:
 
-| Name | Role |
-| :--- | :--- |
-| **Neha Shetty** | Led project planning, coordination, and timeline management across all team members. Owned documentation, presentation flow, and integration oversight. |
-| **Vivek Dubey** | Designed and built LiteSegEdge (encoder-decoder + uncertainty pipeline), custom loss functions (Focal + Lovász + Boundary + Uncertainty), and nuScenes mask generation. Developed the real-time risk scoring dashboard with multi-factor evaluation, optimized to 200+ FPS. |
-| **Prakati N** | Handled dataset preparation, preprocessing, and augmentation; ran training experiments and parameter tuning to evaluate model performance. |
-| **Shreya Sanghwa** | Assisted in dashboard visualization design and demo video creation; led report writing and PPT preparation for result presentation. |
-
----
-
-## 📄 License
-This project is open-sourced under the **[MIT License](LICENSE)** — feel free to use, modify, and learn from it.
 
 ---
 
